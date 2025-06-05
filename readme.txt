@@ -1,6 +1,5 @@
 === WP Simple SEO Tools ===
 Contributors: alidadkhah
-Donate link: https://buymeacoffee.com/alidadkhah
 Tags: seo, meta description, json-ld, schema, wordpress
 Requires at least: 5.0
 Tested up to: 6.5
