@@ -1,0 +1,15 @@
+/*
+Theme Name: Minimal SEO Blog
+Theme URI: https://github.com/alidadkhah/minimal-seo-theme
+Author: Ali Dadkhah
+Version: 1.0
+Description: A minimal, SEO-friendly WordPress blog theme
+Tags: blog, minimal, seo
+*/
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: auto;
+    padding: 1rem;
+}
